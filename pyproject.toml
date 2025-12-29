@@ -15,4 +15,5 @@ dependencies = [
     "pathlib>=1.0.1",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
+    "xgboost>=3.1.2",
 ]
